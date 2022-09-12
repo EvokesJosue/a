@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PeXkESVrG1elRITIYmpUjK9it3+bStFoR9hdsOKrQTbc/JBt+oF0ORhbNK7Rzy+vyZKj72PhVG1Ci8z2XScOSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\a\\source\\repos\\EvokesJosue\\Oficina Mecanica\\Oficina Mecanica\\Oficina Mecanica.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\a\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,42 @@
+C:\Users\a\source\repos\Oficina Mecanica\Oficina Mecanica\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\a\source\repos\Oficina Mecanica\Oficina Mecanica\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\a\source\repos\Oficina Mecanica\Oficina Mecanica\bin\Debug\netcoreapp3.1\Oficina Mecanica.exe
+C:\Users\a\source\repos\Oficina Mecanica\Oficina Mecanica\bin\Debug\netcoreapp3.1\Oficina Mecanica.deps.json
+C:\Users\a\source\repos\Oficina Mecanica\Oficina Mecanica\bin\Debug\netcoreapp3.1\Oficina Mecanica.runtimeconfig.json
+C:\Users\a\source\repos\Oficina Mecanica\Oficina Mecanica\bin\Debug\netcoreapp3.1\Oficina Mecanica.runtimeconfig.dev.json
+C:\Users\a\source\repos\Oficina Mecanica\Oficina Mecanica\bin\Debug\netcoreapp3.1\Oficina Mecanica.dll
+C:\Users\a\source\repos\Oficina Mecanica\Oficina Mecanica\bin\Debug\netcoreapp3.1\Oficina Mecanica.pdb
+C:\Users\a\source\repos\Oficina Mecanica\Oficina Mecanica\obj\Debug\netcoreapp3.1\Oficina Mecanica.csproj.AssemblyReference.cache
+C:\Users\a\source\repos\Oficina Mecanica\Oficina Mecanica\obj\Debug\netcoreapp3.1\Oficina Mecanica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a\source\repos\Oficina Mecanica\Oficina Mecanica\obj\Debug\netcoreapp3.1\Oficina Mecanica.AssemblyInfoInputs.cache
+C:\Users\a\source\repos\Oficina Mecanica\Oficina Mecanica\obj\Debug\netcoreapp3.1\Oficina Mecanica.AssemblyInfo.cs
+C:\Users\a\source\repos\Oficina Mecanica\Oficina Mecanica\obj\Debug\netcoreapp3.1\Oficina Mecanica.csproj.CoreCompileInputs.cache
+C:\Users\a\source\repos\Oficina Mecanica\Oficina Mecanica\obj\Debug\netcoreapp3.1\Oficina Mecanica.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\a\source\repos\Oficina Mecanica\Oficina Mecanica\obj\Debug\netcoreapp3.1\staticwebassets\Oficina Mecanica.StaticWebAssets.Manifest.cache
+C:\Users\a\source\repos\Oficina Mecanica\Oficina Mecanica\obj\Debug\netcoreapp3.1\staticwebassets\Oficina Mecanica.StaticWebAssets.xml
+C:\Users\a\source\repos\Oficina Mecanica\Oficina Mecanica\obj\Debug\netcoreapp3.1\scopedcss\bundle\Oficina Mecanica.styles.css
+C:\Users\a\source\repos\Oficina Mecanica\Oficina Mecanica\obj\Debug\netcoreapp3.1\Oficina Mecanica.RazorTargetAssemblyInfo.cache
+C:\Users\a\source\repos\Oficina Mecanica\Oficina Mecanica\obj\Debug\netcoreapp3.1\Oficina Mecanica.dll
+C:\Users\a\source\repos\Oficina Mecanica\Oficina Mecanica\obj\Debug\netcoreapp3.1\Oficina Mecanica.pdb
+C:\Users\a\source\repos\Oficina Mecanica\Oficina Mecanica\obj\Debug\netcoreapp3.1\Oficina Mecanica.genruntimeconfig.cache
+C:\Users\a\source\repos\EvokesJosue\Oficina Mecanica\Oficina Mecanica\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\a\source\repos\EvokesJosue\Oficina Mecanica\Oficina Mecanica\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\a\source\repos\EvokesJosue\Oficina Mecanica\Oficina Mecanica\bin\Debug\netcoreapp3.1\Oficina Mecanica.exe
+C:\Users\a\source\repos\EvokesJosue\Oficina Mecanica\Oficina Mecanica\bin\Debug\netcoreapp3.1\Oficina Mecanica.deps.json
+C:\Users\a\source\repos\EvokesJosue\Oficina Mecanica\Oficina Mecanica\bin\Debug\netcoreapp3.1\Oficina Mecanica.runtimeconfig.json
+C:\Users\a\source\repos\EvokesJosue\Oficina Mecanica\Oficina Mecanica\bin\Debug\netcoreapp3.1\Oficina Mecanica.runtimeconfig.dev.json
+C:\Users\a\source\repos\EvokesJosue\Oficina Mecanica\Oficina Mecanica\bin\Debug\netcoreapp3.1\Oficina Mecanica.dll
+C:\Users\a\source\repos\EvokesJosue\Oficina Mecanica\Oficina Mecanica\bin\Debug\netcoreapp3.1\Oficina Mecanica.pdb
+C:\Users\a\source\repos\EvokesJosue\Oficina Mecanica\Oficina Mecanica\obj\Debug\netcoreapp3.1\Oficina Mecanica.csproj.AssemblyReference.cache
+C:\Users\a\source\repos\EvokesJosue\Oficina Mecanica\Oficina Mecanica\obj\Debug\netcoreapp3.1\Oficina Mecanica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a\source\repos\EvokesJosue\Oficina Mecanica\Oficina Mecanica\obj\Debug\netcoreapp3.1\Oficina Mecanica.AssemblyInfoInputs.cache
+C:\Users\a\source\repos\EvokesJosue\Oficina Mecanica\Oficina Mecanica\obj\Debug\netcoreapp3.1\Oficina Mecanica.AssemblyInfo.cs
+C:\Users\a\source\repos\EvokesJosue\Oficina Mecanica\Oficina Mecanica\obj\Debug\netcoreapp3.1\Oficina Mecanica.csproj.CoreCompileInputs.cache
+C:\Users\a\source\repos\EvokesJosue\Oficina Mecanica\Oficina Mecanica\obj\Debug\netcoreapp3.1\Oficina Mecanica.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\a\source\repos\EvokesJosue\Oficina Mecanica\Oficina Mecanica\obj\Debug\netcoreapp3.1\staticwebassets\Oficina Mecanica.StaticWebAssets.Manifest.cache
+C:\Users\a\source\repos\EvokesJosue\Oficina Mecanica\Oficina Mecanica\obj\Debug\netcoreapp3.1\staticwebassets\Oficina Mecanica.StaticWebAssets.xml
+C:\Users\a\source\repos\EvokesJosue\Oficina Mecanica\Oficina Mecanica\obj\Debug\netcoreapp3.1\scopedcss\bundle\Oficina Mecanica.styles.css
+C:\Users\a\source\repos\EvokesJosue\Oficina Mecanica\Oficina Mecanica\obj\Debug\netcoreapp3.1\Oficina Mecanica.RazorTargetAssemblyInfo.cache
+C:\Users\a\source\repos\EvokesJosue\Oficina Mecanica\Oficina Mecanica\obj\Debug\netcoreapp3.1\Oficina Mecanica.dll
+C:\Users\a\source\repos\EvokesJosue\Oficina Mecanica\Oficina Mecanica\obj\Debug\netcoreapp3.1\Oficina Mecanica.pdb
+C:\Users\a\source\repos\EvokesJosue\Oficina Mecanica\Oficina Mecanica\obj\Debug\netcoreapp3.1\Oficina Mecanica.genruntimeconfig.cache
